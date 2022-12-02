@@ -1,0 +1,50 @@
+.skills_item h2{
+	font-size: 22px;
+	color: #344051;
+	font-weight: bold;
+	border-bottom: 6px solid orange;
+	margin: 10px auto;
+	width: 96px;
+	padding-bottom: 25px;
+}
+
+.skills_item img{
+	width: 50px;
+}
+
+.skills_item h4{
+	font-size: 16px;
+	color: #ddb391;
+}
+
+.skills_item p{}
+
+<div class="skills">
+		<div class="skills_conteiner">
+			<h2>Что я умею</h2>
+			<div class="skills_item">
+				<img src="img/laptop.png">
+				<h4>Веб-дизайн</h4>
+				<p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam. </p>
+			</div>
+
+			<div class="skills_item">
+				<img src="img/bs.png"> 
+			<h4>Разработка</h4>
+			<p>Lorem ipsum dolor sit amet placerat facilisis mi in tempus eleifend pellentesque.</p>
+		   </div>
+
+		   <div class="skills_item">
+			<img src="img/roket.png">
+			<h4>СЕО-Оптимизация</h4>
+			<p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+		   </div>
+
+		   <div class="skills_item">
+		   	<img src="img/mega.png">
+			<h4>Маркетинг</h4>
+			<p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque .</p>
+		   </div>
+		</div>
+		<div class="clear"></div>
+	</div>
